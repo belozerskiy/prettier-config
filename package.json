@@ -1,0 +1,8 @@
+{
+  "name": "@belozerskiy/prettier-config",
+  "version": "1.0.0",
+  "description": "Personal prettier config",
+  "main": "prettier.config.js",
+  "author": "Michael Belozerskiy",
+  "license": "MIT"
+}
