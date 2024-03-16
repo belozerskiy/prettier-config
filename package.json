@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Personal prettier config",
   "main": "prettier.config.js",
-  "author": "Michael Belozerskiy",
+  "repository": "git@github.com:belozerskiy/prettier-config.git",
+  "author": "Michael Belozerskiy <m.belozerskiy@yandex.ru>",
   "license": "MIT"
 }
